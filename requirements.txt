@@ -1,0 +1,17 @@
+# Requisitos para Testes de E-commerce
+
+# Para requisições HTTP síncronas e assíncronas
+requests==2.31.0
+aiohttp==3.9.5
+
+# Para análise de dados e métricas
+numpy==1.27.5
+
+# Para relatórios em PDF
+reportlab==4.1.3
+
+# Para testes e execução em paralelo
+pytest==8.4.0
+
+# Utilitários
+tqdm==4.66.1
