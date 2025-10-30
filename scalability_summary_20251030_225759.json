@@ -1,0 +1,11 @@
+{
+  "teste": "Escalabilidade",
+  "data": "20251030_225759",
+  "throughput_one_instance": 1200.0,
+  "throughput_two_instances": 2100.0,
+  "instances": 2,
+  "eficiencia_pct": 87.5,
+  "passed": true,
+  "meta": "> 80%",
+  "observacoes": "Boa eficiência horizontal observada."
+}

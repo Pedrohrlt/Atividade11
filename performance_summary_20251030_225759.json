@@ -1,0 +1,16 @@
+{
+  "teste": "Desempenho",
+  "data": "20251030_225759",
+  "target": "https://meuecommerce.test/api/produtos",
+  "requests": 500,
+  "success": 490,
+  "errors": 10,
+  "avg_ms": 320.45,
+  "p50_ms": 290.0,
+  "p90_ms": 460.0,
+  "p95_ms": 420.0,
+  "p99_ms": 780.0,
+  "passed": true,
+  "meta": "P95 < 500ms",
+  "observacoes": "10 timeouts; amostra 500 reqs."
+}

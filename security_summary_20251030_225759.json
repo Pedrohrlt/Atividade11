@@ -1,0 +1,16 @@
+{
+  "teste": "Segurança (Rate Limiting)",
+  "data": "20251030_225759",
+  "target": "https://meuecommerce.test/api/login",
+  "requests_sent": 160,
+  "duration_s": 48.4,
+  "counts": {
+    "200": 102,
+    "429": 58
+  },
+  "first_429_request": 103,
+  "rpm_observed": 198.76,
+  "passed": true,
+  "meta": "100 req/min/IP",
+  "observacoes": "Rate limiting aplicado após ~102 requisições."
+}
