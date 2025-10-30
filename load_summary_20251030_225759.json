@@ -1,0 +1,14 @@
+{
+  "teste": "Carga",
+  "data": "20251030_225759",
+  "target": "https://meuecommerce.test/",
+  "duration_s": 30,
+  "workers": 200,
+  "total_requests": 69000,
+  "success": 68500,
+  "throughput_rps": 2300.0,
+  "success_rate_pct": 99.28,
+  "passed": true,
+  "meta": "Throughput > 2000 req/s",
+  "observacoes": "Teste realizado em máquina local; rede dedicada."
+}

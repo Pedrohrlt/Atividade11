@@ -1,0 +1,26 @@
+{
+  "teste": "Estresse",
+  "data": "20251030_225759",
+  "target": "https://meuecommerce.test/",
+  "breakpoint_users": 16200,
+  "levels_tested": [
+    1000,
+    2000,
+    3000,
+    4000,
+    5000,
+    6000,
+    8000,
+    10000,
+    12000,
+    14000,
+    15000,
+    16000,
+    16200
+  ],
+  "p95_at_break_ms": 2200.0,
+  "error_rate_at_break_pct": 8.0,
+  "passed": true,
+  "meta": "> 15000 users",
+  "observacoes": "Ponto de quebra detectado em ~16200 usuários."
+}
